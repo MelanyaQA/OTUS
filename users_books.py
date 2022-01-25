@@ -1,5 +1,4 @@
 import json
-from pprint import pprint
 from csv import DictReader
 
 
@@ -30,13 +29,3 @@ for i in range(len(books)):
 with open('result.json', 'w') as f:
     new_j = json.dumps(res_users, indent=4)
     f.write(new_j)
-
-
-
-
-
-
-
-
-
-

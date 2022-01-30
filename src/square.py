@@ -1,7 +1,8 @@
 from OTUS.src.figure import Figure
+from OTUS.src.rectangle import Rectangle
 
 
-class Square(Figure):
+class Square(Rectangle, Figure):
     name = 'square'
 
     def __init__(self, a, b, c, d):
@@ -10,10 +11,10 @@ class Square(Figure):
         self.c = c
         self.d = d
 
-    def perimetr_square(self):
+    @property
+    def perimetr(self):
         return self.a * 4
 
-    def area_square(self):
+    @property
+    def area(self):
         return self.a ** 2
-
-

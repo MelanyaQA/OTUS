@@ -11,17 +11,17 @@ def test_check_triangle_condition():
 
 def test_perimetr():
     tr2 = Triangle(5, 3, 4)
-    assert tr2.a + tr2.b + tr2.c == tr2.perimetr_triangle()
+    assert tr2.a + tr2.b + tr2.c == tr2.perimetr
 
 
 def test_area():
     test_triangle1 = Triangle(4, 3, 5)
-    print(Triangle.name, 'area =', test_triangle1.area_triangle())
+    print(Triangle.name, 'area =', test_triangle1.area)
 
 def test_add_tr():
     tr3 = Triangle(10, 5, 4)
     square3 = Square(2, 2, 2, 2)
-    return tr3.area_triangle() + square3.area_square()
+    return tr3.area + square3.area
 
 
 

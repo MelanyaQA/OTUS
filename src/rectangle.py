@@ -9,14 +9,17 @@ class Rectangle(Figure):
         self.c = c
         self.d = d
 
-    def area_rectangle(self):
+    @property
+    def area(self):
         if self.a != self.b:
             return self.a * self.b
 
-    def perimetr_rectangle(self):
+    @property
+    def perimetr(self):
         if self.a != self.b:
             return (self.a + self.b) * 2
 
     def add_area_rect(self):
-        return Rectangle.area_rectangle() + Circle.area_circle()
+        return Rectangle.area + Circle.area
+
 

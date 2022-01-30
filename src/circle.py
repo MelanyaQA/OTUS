@@ -7,11 +7,14 @@ class Circle(Figure):
     def __init__(self, radius):
         self.radius = radius
 
-    def area_circle(self):
+    @property
+    def area(self):
         return pi * (self.radius ** 2)
 
-    def perimeter_circle(self):
+    @property
+    def perimeter(self):
         return 2 * pi * self.radius
+
 
 
 

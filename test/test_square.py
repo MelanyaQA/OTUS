@@ -10,11 +10,12 @@ def test_check_square_condition():
 
 def test_perimetr_square():
     square2 = Square(4, 4, 4, 4)
-    assert square2.a * 4 == square2.perimetr_square()
+    assert square2.a * 4 == square2.perimetr
 
 def test_area_square():
     square3 = Square(2, 2, 2, 2)
-    assert square3.a ** 2 == square3.area_square()
+    assert square3.a ** 2 == square3.area
+
 
 
 

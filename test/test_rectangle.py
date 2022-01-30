@@ -12,7 +12,7 @@ def test_check_rectangle_condition():
 def test_area_rectangle():
     rect2 = Rectangle(3, 4, 3, 4)
     if rect2.a != rect2.b:
-        assert rect2.a * rect2.b == rect2.area_rectangle()
+        assert rect2.a * rect2.b == rect2.area
 
 def test_perimetr_rectangle():
     rect3 = Rectangle(4, 3, 4, 3)
@@ -22,5 +22,5 @@ def test_perimetr_rectangle():
 def test_add_area_rect():
     rect4 = Rectangle(3, 5, 3, 5)
     circle4 = Circle(3)
-    return rect4.area_rectangle() + circle4.area_circle()
+    return rect4.area + circle4.area
 

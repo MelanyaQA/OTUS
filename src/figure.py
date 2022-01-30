@@ -16,6 +16,3 @@ class Figure:
         if not isinstance(figure, Figure):
             raise ValueError('Receive an incorrect class')
         return self.area + figure.area
-
-
-

@@ -5,11 +5,9 @@ from OTUS.src.rectangle import Rectangle
 class Square(Rectangle, Figure):
     name = 'square'
 
-    def __init__(self, a, b, c, d):
+    def __init__(self, a):
         self.a = a
-        self.b = b
-        self.c = c
-        self.d = d
+
 
     @property
     def perimetr(self):

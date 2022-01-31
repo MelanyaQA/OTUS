@@ -3,11 +3,10 @@ from OTUS.src.circle import Circle
 
 class Rectangle(Figure):
     name = 'rectangle'
-    def __init__(self, a, b, c, d):
+    def __init__(self, a, b):
         self.a = a
         self.b = b
-        self.c = c
-        self.d = d
+
 
     @property
     def area(self):

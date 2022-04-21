@@ -1,0 +1,26 @@
+Отчёт о состоянии системы:
+
+Пользователи системы: 'root', '_rpc', 'systemd+', 'avahi', 'message+', 'syslog', 'lp', 'rtkit', 'colord', 'whoopsie', 'kernoops', 'mgevork+', 'm.gevor+'
+
+Процессов запущено:  404
+
+Пользовательских процессов:
+root: 215
+_rpc: 1
+systemd+: 2
+avahi: 2
+message+: 1
+syslog: 1
+lp: 1
+rtkit: 1
+colord: 1
+whoopsie: 1
+kernoops: 2
+mgevork+: 77
+m.gevor+: 99
+
+Всего памяти используется: 95.0%
+Всего CPU используется: 49.0%
+
+Больше всего памяти использует: /snap/pycharm-commun: 22.2%
+Больше всего CPU использует: /usr/share/discord/D: 12.9%

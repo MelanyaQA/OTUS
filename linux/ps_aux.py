@@ -24,7 +24,7 @@ for item in pr_list[1:]:
     user_name = parts[0]
     cpu_value = float(parts[2])
     mem_value = float(parts[3])
-    process_name_match = re.search(".+ \d{1,2}:\d\d (.+)$", item)
+    process_name_match = re.search(".+ \d{1,3}:\d\d (.+)$", item)
     process_name = process_name_match.group(1)
 
     if user_name not in system_users:
@@ -57,7 +57,7 @@ for key in users_process_count:
 
 formatted_out = f"Отчёт о состоянии системы:\n\n" \
                 f"Пользователи системы: {formatted_user}\n\n" \
-                f"Процессов запущено:  {len(pr_list) - 1}\n\n" \
+                f"Процессов запущено:  {len(pr_list) - 2}\n\n" \
                 f"Пользовательских процессов:\n{formatted_user_process_count}" \
                 f"\nВсего памяти используется: {round(total_mem, 2)}%\n" \
                 f"Всего CPU используется: {round(total_cpu, 2)}%\n\n" \

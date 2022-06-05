@@ -1,0 +1,9 @@
+INFO     utils:conftest.py:88 ===> Test test_login_to_admin_page started at 2022-06-05 17:53:02.817696
+INFO     utils:conftest.py:97 Browser: {'acceptInsecureCerts': False, 'browserName': 'chrome', 'browserVersion': '102.0.5005.61', 'chrome': {'chromedriverVersion': '102.0.5005.61 (0e59bcc00cc4985ce39ad31c150065f159d95ad3-refs/branch-heads/5005@{#819})', 'userDataDir': '/tmp/.com.google.Chrome.vCvX6B'}, 'goog:chromeOptions': {'debuggerAddress': 'localhost:38955'}, 'networkConnectionEnabled': False, 'pageLoadStrategy': 'normal', 'platformName': 'linux', 'proxy': {}, 'setWindowRect': True, 'strictFileInteractability': False, 'timeouts': {'implicit': 0, 'pageLoad': 300000, 'script': 30000}, 'unhandledPromptBehavior': 'dismiss and notify', 'webauthn:extension:credBlob': True, 'webauthn:extension:largeBlob': True, 'webauthn:virtualAuthenticators': True}
+INFO     utils:BasePage.py:42 Input user in input ('css selector', '#input-username')
+INFO     utils:BasePage.py:18 Check if element ('css selector', '#input-username') is present
+INFO     utils:BasePage.py:42 Input bitnami in input ('css selector', '#input-password')
+INFO     utils:BasePage.py:18 Check if element ('css selector', '#input-password') is present
+INFO     utils:BasePage.py:37 Check if element ('css selector', "button[type='submit']") is present and click
+INFO     utils:BasePage.py:18 Check if element ('css selector', "button[type='submit']") is present
+INFO     utils:conftest.py:101 ===> Test test_login_to_admin_page finished at 2022-06-05 17:53:07.127869

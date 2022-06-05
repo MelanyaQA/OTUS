@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jun 05 17:53:13 MSK 2022","Sun Jun 05 17:53:15 MSK 2022","2233","","test_admin","TestAdmin","","","Delete product in admin",""
+"passed","Sun Jun 05 17:53:06 MSK 2022","Sun Jun 05 17:53:07 MSK 2022","1051","","test_admin","TestAdmin","","","Authorization to admin",""
+"passed","Sun Jun 05 17:53:48 MSK 2022","Sun Jun 05 17:53:49 MSK 2022","662","","test_opencart","TestOpencart","","","Change currency om main page",""
+"passed","Sun Jun 05 17:53:47 MSK 2022","Sun Jun 05 17:53:47 MSK 2022","421","","test_opencart","TestOpencart","","","Elements on main page",""
+"passed","Sun Jun 05 17:53:08 MSK 2022","Sun Jun 05 17:53:11 MSK 2022","3034","","test_admin","TestAdmin","","","Add product in admin",""
+"passed","Sun Jun 05 17:53:50 MSK 2022","Sun Jun 05 17:53:51 MSK 2022","1054","","test_opencart","TestOpencart","","","Elements on catalog page",""

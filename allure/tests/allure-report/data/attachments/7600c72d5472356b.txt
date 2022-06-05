@@ -1,0 +1,28 @@
+INFO     utils:conftest.py:88 ===> Test test_add_new_product_in_admin started at 2022-06-05 17:53:07.134351
+INFO     utils:conftest.py:97 Browser: {'acceptInsecureCerts': False, 'browserName': 'chrome', 'browserVersion': '102.0.5005.61', 'chrome': {'chromedriverVersion': '102.0.5005.61 (0e59bcc00cc4985ce39ad31c150065f159d95ad3-refs/branch-heads/5005@{#819})', 'userDataDir': '/tmp/.com.google.Chrome.KdoQsq'}, 'goog:chromeOptions': {'debuggerAddress': 'localhost:43051'}, 'networkConnectionEnabled': False, 'pageLoadStrategy': 'normal', 'platformName': 'linux', 'proxy': {}, 'setWindowRect': True, 'strictFileInteractability': False, 'timeouts': {'implicit': 0, 'pageLoad': 300000, 'script': 30000}, 'unhandledPromptBehavior': 'dismiss and notify', 'webauthn:extension:credBlob': True, 'webauthn:extension:largeBlob': True, 'webauthn:virtualAuthenticators': True}
+INFO     utils:BasePage.py:42 Input user in input ('css selector', '#input-username')
+INFO     utils:BasePage.py:18 Check if element ('css selector', '#input-username') is present
+INFO     utils:BasePage.py:42 Input bitnami in input ('css selector', '#input-password')
+INFO     utils:BasePage.py:18 Check if element ('css selector', '#input-password') is present
+INFO     utils:BasePage.py:37 Check if element ('css selector', "button[type='submit']") is present and click
+INFO     utils:BasePage.py:18 Check if element ('css selector', "button[type='submit']") is present
+INFO     utils:BasePage.py:37 Check if element ('css selector', '#menu-catalog') is present and click
+INFO     utils:BasePage.py:18 Check if element ('css selector', '#menu-catalog') is present
+INFO     utils:BasePage.py:37 Check if element ('css selector', '#collapse1 > li:nth-child(2) > a') is present and click
+INFO     utils:BasePage.py:18 Check if element ('css selector', '#collapse1 > li:nth-child(2) > a') is present
+INFO     utils:BasePage.py:18 Check if element ('css selector', '#form-product table') is present
+INFO     utils:BasePage.py:37 Check if element ('css selector', '.page-header .pull-right a.btn') is present and click
+INFO     utils:BasePage.py:18 Check if element ('css selector', '.page-header .pull-right a.btn') is present
+INFO     utils:BasePage.py:42 Input Test Product in input ('css selector', '#input-name1')
+INFO     utils:BasePage.py:18 Check if element ('css selector', '#input-name1') is present
+INFO     utils:BasePage.py:42 Input test test test in input ('css selector', '#input-meta-title1')
+INFO     utils:BasePage.py:18 Check if element ('css selector', '#input-meta-title1') is present
+INFO     utils:BasePage.py:37 Check if element ('css selector', "a[href='#tab-data']") is present and click
+INFO     utils:BasePage.py:18 Check if element ('css selector', "a[href='#tab-data']") is present
+INFO     utils:BasePage.py:42 Input test in input ('css selector', '#input-model')
+INFO     utils:BasePage.py:18 Check if element ('css selector', '#input-model') is present
+INFO     utils:BasePage.py:37 Check if element ('css selector', "button[type='submit']") is present and click
+INFO     utils:BasePage.py:18 Check if element ('css selector', "button[type='submit']") is present
+INFO     utils:BasePage.py:18 Check if element ('css selector', '.alert-success') is present
+INFO     utils:BasePage.py:18 Check if element ('css selector', '#form-product table') is present
+INFO     utils:conftest.py:101 ===> Test test_add_new_product_in_admin finished at 2022-06-05 17:53:11.736574

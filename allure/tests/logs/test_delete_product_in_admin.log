@@ -1,0 +1,41 @@
+2022/06/05 17:22:25 - INFO - ===> Test test_delete_product_in_admin started at 2022-06-05 17:22:25.927466
+2022/06/05 17:23:27 - INFO - ===> Test test_delete_product_in_admin started at 2022-06-05 17:23:27.294982
+2022/06/05 17:24:25 - INFO - ===> Test test_delete_product_in_admin started at 2022-06-05 17:24:25.656648
+2022/06/05 17:41:22 - INFO - ===> Test test_delete_product_in_admin started at 2022-06-05 17:41:22.420971
+2022/06/05 17:41:24 - INFO - Browser: {'acceptInsecureCerts': False, 'browserName': 'chrome', 'browserVersion': '102.0.5005.61', 'chrome': {'chromedriverVersion': '102.0.5005.61 (0e59bcc00cc4985ce39ad31c150065f159d95ad3-refs/branch-heads/5005@{#819})', 'userDataDir': '/tmp/.com.google.Chrome.hMyycM'}, 'goog:chromeOptions': {'debuggerAddress': 'localhost:36149'}, 'networkConnectionEnabled': False, 'pageLoadStrategy': 'normal', 'platformName': 'linux', 'proxy': {}, 'setWindowRect': True, 'strictFileInteractability': False, 'timeouts': {'implicit': 0, 'pageLoad': 300000, 'script': 30000}, 'unhandledPromptBehavior': 'dismiss and notify', 'webauthn:extension:credBlob': True, 'webauthn:extension:largeBlob': True, 'webauthn:virtualAuthenticators': True}
+2022/06/05 17:41:26 - INFO - Input user in input ('css selector', '#input-username')
+2022/06/05 17:41:26 - INFO - Check if element ('css selector', '#input-username') is present
+2022/06/05 17:41:26 - INFO - Input bitnami in input ('css selector', '#input-password')
+2022/06/05 17:41:26 - INFO - Check if element ('css selector', '#input-password') is present
+2022/06/05 17:41:26 - INFO - Check if element ('css selector', "button[type='submit']") is present and click
+2022/06/05 17:41:26 - INFO - Check if element ('css selector', "button[type='submit']") is present
+2022/06/05 17:41:26 - INFO - Check if element ('css selector', '#menu-catalog') is present and click
+2022/06/05 17:41:26 - INFO - Check if element ('css selector', '#menu-catalog') is present
+2022/06/05 17:41:26 - INFO - Check if element ('css selector', '#collapse1 > li:nth-child(2) > a') is present and click
+2022/06/05 17:41:26 - INFO - Check if element ('css selector', '#collapse1 > li:nth-child(2) > a') is present
+2022/06/05 17:41:27 - INFO - Check if element ('css selector', '#form-product table') is present
+2022/06/05 17:41:27 - INFO - Check if element ('css selector', '#form-product table') is present
+2022/06/05 17:41:27 - INFO - Check if element ('css selector', '.page-header .pull-right button.btn-danger') is present and click
+2022/06/05 17:41:27 - INFO - Check if element ('css selector', '.page-header .pull-right button.btn-danger') is present
+2022/06/05 17:41:27 - INFO - Check if element ('css selector', '.alert-success') is present
+2022/06/05 17:41:27 - INFO - Check if element ('css selector', '#form-product table') is present
+2022/06/05 17:41:28 - INFO - ===> Test test_delete_product_in_admin finished at 2022-06-05 17:41:28.042666
+2022/06/05 17:53:11 - INFO - ===> Test test_delete_product_in_admin started at 2022-06-05 17:53:11.740236
+2022/06/05 17:53:13 - INFO - Browser: {'acceptInsecureCerts': False, 'browserName': 'chrome', 'browserVersion': '102.0.5005.61', 'chrome': {'chromedriverVersion': '102.0.5005.61 (0e59bcc00cc4985ce39ad31c150065f159d95ad3-refs/branch-heads/5005@{#819})', 'userDataDir': '/tmp/.com.google.Chrome.EZYjog'}, 'goog:chromeOptions': {'debuggerAddress': 'localhost:40947'}, 'networkConnectionEnabled': False, 'pageLoadStrategy': 'normal', 'platformName': 'linux', 'proxy': {}, 'setWindowRect': True, 'strictFileInteractability': False, 'timeouts': {'implicit': 0, 'pageLoad': 300000, 'script': 30000}, 'unhandledPromptBehavior': 'dismiss and notify', 'webauthn:extension:credBlob': True, 'webauthn:extension:largeBlob': True, 'webauthn:virtualAuthenticators': True}
+2022/06/05 17:53:13 - INFO - Input user in input ('css selector', '#input-username')
+2022/06/05 17:53:13 - INFO - Check if element ('css selector', '#input-username') is present
+2022/06/05 17:53:13 - INFO - Input bitnami in input ('css selector', '#input-password')
+2022/06/05 17:53:13 - INFO - Check if element ('css selector', '#input-password') is present
+2022/06/05 17:53:13 - INFO - Check if element ('css selector', "button[type='submit']") is present and click
+2022/06/05 17:53:13 - INFO - Check if element ('css selector', "button[type='submit']") is present
+2022/06/05 17:53:13 - INFO - Check if element ('css selector', '#menu-catalog') is present and click
+2022/06/05 17:53:13 - INFO - Check if element ('css selector', '#menu-catalog') is present
+2022/06/05 17:53:13 - INFO - Check if element ('css selector', '#collapse1 > li:nth-child(2) > a') is present and click
+2022/06/05 17:53:13 - INFO - Check if element ('css selector', '#collapse1 > li:nth-child(2) > a') is present
+2022/06/05 17:53:14 - INFO - Check if element ('css selector', '#form-product table') is present
+2022/06/05 17:53:14 - INFO - Check if element ('css selector', '#form-product table') is present
+2022/06/05 17:53:14 - INFO - Check if element ('css selector', '.page-header .pull-right button.btn-danger') is present and click
+2022/06/05 17:53:14 - INFO - Check if element ('css selector', '.page-header .pull-right button.btn-danger') is present
+2022/06/05 17:53:15 - INFO - Check if element ('css selector', '.alert-success') is present
+2022/06/05 17:53:15 - INFO - Check if element ('css selector', '#form-product table') is present
+2022/06/05 17:53:15 - INFO - ===> Test test_delete_product_in_admin finished at 2022-06-05 17:53:15.415294

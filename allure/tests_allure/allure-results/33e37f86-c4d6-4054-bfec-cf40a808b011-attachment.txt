@@ -1,0 +1,9 @@
+INFO     OTUS.allure.utils:conftest.py:88 ===> Test test_login_to_admin_page started at 2022-06-16 14:03:55.598991
+INFO     OTUS.allure.utils:conftest.py:97 Browser: {'acceptInsecureCerts': False, 'browserName': 'chrome', 'browserVersion': '102.0.5005.61', 'chrome': {'chromedriverVersion': '102.0.5005.61 (0e59bcc00cc4985ce39ad31c150065f159d95ad3-refs/branch-heads/5005@{#819})', 'userDataDir': '/tmp/.com.google.Chrome.53ddku'}, 'goog:chromeOptions': {'debuggerAddress': 'localhost:34327'}, 'networkConnectionEnabled': False, 'pageLoadStrategy': 'normal', 'platformName': 'linux', 'proxy': {}, 'setWindowRect': True, 'strictFileInteractability': False, 'timeouts': {'implicit': 0, 'pageLoad': 300000, 'script': 30000}, 'unhandledPromptBehavior': 'dismiss and notify', 'webauthn:extension:credBlob': True, 'webauthn:extension:largeBlob': True, 'webauthn:virtualAuthenticators': True}
+INFO     OTUS.allure.utils:BasePage_allure.py:42 Input user in input ('css selector', '#input-username')
+INFO     OTUS.allure.utils:BasePage_allure.py:18 Check if element ('css selector', '#input-username') is present
+INFO     OTUS.allure.utils:BasePage_allure.py:42 Input bitnami in input ('css selector', '#input-password')
+INFO     OTUS.allure.utils:BasePage_allure.py:18 Check if element ('css selector', '#input-password') is present
+INFO     OTUS.allure.utils:BasePage_allure.py:37 Check if element ('css selector', "button[type='submit']") is present and click
+INFO     OTUS.allure.utils:BasePage_allure.py:18 Check if element ('css selector', "button[type='submit']") is present
+INFO     OTUS.allure.utils:conftest.py:101 ===> Test test_login_to_admin_page finished at 2022-06-16 14:03:58.405771

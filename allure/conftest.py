@@ -4,7 +4,7 @@ import allure
 import pytest
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
-from otus.allure.utils import setup_logging
+from OTUS.allure.utils import setup_logging
 
 DRIVERS_DIRECTORY = os.path.expanduser("~/Dev/drivers")
 

@@ -1,0 +1,20 @@
+2022/06/16 13:53:44 - INFO - ===> Test test_catalog_page started at 2022-06-16 13:53:44.904579
+2022/06/16 13:53:49 - INFO - Browser: {'acceptInsecureCerts': False, 'browserName': 'chrome', 'browserVersion': '102.0.5005.61', 'chrome': {'chromedriverVersion': '102.0.5005.61 (0e59bcc00cc4985ce39ad31c150065f159d95ad3-refs/branch-heads/5005@{#819})', 'userDataDir': '/tmp/.com.google.Chrome.aaS3JF'}, 'goog:chromeOptions': {'debuggerAddress': 'localhost:37577'}, 'networkConnectionEnabled': False, 'pageLoadStrategy': 'normal', 'platformName': 'linux', 'proxy': {}, 'setWindowRect': True, 'strictFileInteractability': False, 'timeouts': {'implicit': 0, 'pageLoad': 300000, 'script': 30000}, 'unhandledPromptBehavior': 'dismiss and notify', 'webauthn:extension:credBlob': True, 'webauthn:extension:largeBlob': True, 'webauthn:virtualAuthenticators': True}
+2022/06/16 13:53:49 - INFO - Check if element ('css selector', '#menu > div.collapse.navbar-collapse.navbar-ex1-collapse > ul > li:nth-child(2)') is present and click
+2022/06/16 13:53:49 - INFO - Check if element ('css selector', '#menu > div.collapse.navbar-collapse.navbar-ex1-collapse > ul > li:nth-child(2)') is present
+2022/06/16 13:53:49 - INFO - Check if element ('css selector', 'li.dropdown.open .see-all') is present and click
+2022/06/16 13:53:49 - INFO - Check if element ('css selector', 'li.dropdown.open .see-all') is present
+2022/06/16 13:53:50 - INFO - Check if elements ('css selector', '#content .product-grid') are present
+2022/06/16 13:53:50 - INFO - Check if element ('css selector', 'select#input-sort') is present
+2022/06/16 13:53:50 - INFO - Check if element ('css selector', 'select#input-sort') is present
+2022/06/16 13:53:50 - INFO - ===> Test test_catalog_page finished at 2022-06-16 13:53:50.584472
+2022/06/16 13:57:21 - INFO - ===> Test test_catalog_page started at 2022-06-16 13:57:21.401782
+2022/06/16 13:57:22 - INFO - Browser: {'acceptInsecureCerts': False, 'browserName': 'chrome', 'browserVersion': '102.0.5005.61', 'chrome': {'chromedriverVersion': '102.0.5005.61 (0e59bcc00cc4985ce39ad31c150065f159d95ad3-refs/branch-heads/5005@{#819})', 'userDataDir': '/tmp/.com.google.Chrome.c1dibm'}, 'goog:chromeOptions': {'debuggerAddress': 'localhost:45783'}, 'networkConnectionEnabled': False, 'pageLoadStrategy': 'normal', 'platformName': 'linux', 'proxy': {}, 'setWindowRect': True, 'strictFileInteractability': False, 'timeouts': {'implicit': 0, 'pageLoad': 300000, 'script': 30000}, 'unhandledPromptBehavior': 'dismiss and notify', 'webauthn:extension:credBlob': True, 'webauthn:extension:largeBlob': True, 'webauthn:virtualAuthenticators': True}
+2022/06/16 13:57:22 - INFO - Check if element ('css selector', '#menu > div.collapse.navbar-collapse.navbar-ex1-collapse > ul > li:nth-child(2)') is present and click
+2022/06/16 13:57:22 - INFO - Check if element ('css selector', '#menu > div.collapse.navbar-collapse.navbar-ex1-collapse > ul > li:nth-child(2)') is present
+2022/06/16 13:57:23 - INFO - Check if element ('css selector', 'li.dropdown.open .see-all') is present and click
+2022/06/16 13:57:23 - INFO - Check if element ('css selector', 'li.dropdown.open .see-all') is present
+2022/06/16 13:57:23 - INFO - Check if elements ('css selector', '#content .product-grid') are present
+2022/06/16 13:57:23 - INFO - Check if element ('css selector', 'select#input-sort') is present
+2022/06/16 13:57:23 - INFO - Check if element ('css selector', 'select#input-sort') is present
+2022/06/16 13:57:23 - INFO - ===> Test test_catalog_page finished at 2022-06-16 13:57:23.829569

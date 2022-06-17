@@ -1,0 +1,10 @@
+2022/06/16 13:15:46 - INFO - ===> Test test_switch_currency started at 2022-06-16 13:15:46.564773
+2022/06/16 13:15:48 - INFO - Browser: {'acceptInsecureCerts': False, 'browserName': 'chrome', 'browserVersion': '102.0.5005.61', 'chrome': {'chromedriverVersion': '102.0.5005.61 (0e59bcc00cc4985ce39ad31c150065f159d95ad3-refs/branch-heads/5005@{#819})', 'userDataDir': '/tmp/.com.google.Chrome.tkGPQn'}, 'goog:chromeOptions': {'debuggerAddress': 'localhost:39945'}, 'networkConnectionEnabled': False, 'pageLoadStrategy': 'normal', 'platformName': 'linux', 'proxy': {}, 'setWindowRect': True, 'strictFileInteractability': False, 'timeouts': {'implicit': 0, 'pageLoad': 300000, 'script': 30000}, 'unhandledPromptBehavior': 'dismiss and notify', 'webauthn:extension:credBlob': True, 'webauthn:extension:largeBlob': True, 'webauthn:virtualAuthenticators': True}
+2022/06/16 13:15:48 - INFO - Opening url http://192.168.31.85:8081/
+2022/06/16 13:15:49 - INFO - Check if element ('css selector', '#top .btn-group') is present and click
+2022/06/16 13:15:49 - INFO - Check if element ('css selector', '#top .btn-group') is present
+2022/06/16 13:15:49 - INFO - Check if element ('css selector', '#top .btn-group .dropdown-menu') is present
+2022/06/16 13:15:49 - INFO - Check if element ('css selector', ".currency-select[name='EUR']") is present and click
+2022/06/16 13:15:49 - INFO - Check if element ('css selector', ".currency-select[name='EUR']") is present
+2022/06/16 13:15:49 - INFO - Check if element ('css selector', 'button.btn-link strong') is present
+2022/06/16 13:15:49 - INFO - ===> Test test_switch_currency finished at 2022-06-16 13:15:49.966250

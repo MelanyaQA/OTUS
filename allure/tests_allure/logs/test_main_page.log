@@ -1,0 +1,7 @@
+2022/06/16 13:15:26 - INFO - ===> Test test_main_page started at 2022-06-16 13:15:26.856599
+2022/06/16 13:15:35 - INFO - Browser: {'acceptInsecureCerts': False, 'browserName': 'chrome', 'browserVersion': '102.0.5005.61', 'chrome': {'chromedriverVersion': '102.0.5005.61 (0e59bcc00cc4985ce39ad31c150065f159d95ad3-refs/branch-heads/5005@{#819})', 'userDataDir': '/tmp/.com.google.Chrome.gg2XOE'}, 'goog:chromeOptions': {'debuggerAddress': 'localhost:45527'}, 'networkConnectionEnabled': False, 'pageLoadStrategy': 'normal', 'platformName': 'linux', 'proxy': {}, 'setWindowRect': True, 'strictFileInteractability': False, 'timeouts': {'implicit': 0, 'pageLoad': 300000, 'script': 30000}, 'unhandledPromptBehavior': 'dismiss and notify', 'webauthn:extension:credBlob': True, 'webauthn:extension:largeBlob': True, 'webauthn:virtualAuthenticators': True}
+2022/06/16 13:15:35 - INFO - Opening url http://192.168.31.85:8081/
+2022/06/16 13:15:39 - INFO - Check if element ('css selector', '#top-links li') is present
+2022/06/16 13:15:39 - INFO - Check if element ('css selector', '#logo img') is present
+2022/06/16 13:15:39 - INFO - Check if element ('css selector', '#search > input') is present
+2022/06/16 13:15:39 - INFO - ===> Test test_main_page finished at 2022-06-16 13:15:39.231995
